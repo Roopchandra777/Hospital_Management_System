@@ -28,7 +28,7 @@ The Hospital Management System is a comprehensive software solution designed to 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/hospital-management-system.git
+    https://github.com/Roopchandra777/Hospital_Management_System.git
     ```
 2. **Open the project in NetBeans**:
     - Launch NetBeans IDE.
@@ -36,7 +36,7 @@ The Hospital Management System is a comprehensive software solution designed to 
     - Select the cloned repository folder.
 
 3. **Set up the database**:
-    - Create a new database in MySQL named `hospital_db`.
+    - Create a new database in MySQL named `HMS`.
     - Execute the SQL scripts located in the `database` folder to create the necessary tables and insert sample data.
 
 4. **Configure the database connection**:
