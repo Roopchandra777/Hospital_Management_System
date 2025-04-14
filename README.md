@@ -62,5 +62,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 - Special thanks to the NetBeans and Java communities for their support and resources.
 
 ## Contact
-For any queries or feedback, please contact us at [your-email@example.com].
+For any queries or feedback, please contact us at [roopchandrapal06@gmail.com].
 
